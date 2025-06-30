@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 Fries
 Milkshakes
 Pizza
-=======
 Kimi No Nawa
 Now you See Me
 You
->>>>>>> movies
+
